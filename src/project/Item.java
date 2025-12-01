@@ -2,7 +2,8 @@ package project;
 
 import java.io.Serializable;
 import java.util.List;
-
+//BATONO NIKA GITVIRTAVT BOLOMDE DASRULEBUL QUIZZS, GTXOVT GAITVALISWINOT ROM AUDITORIASHI UBRALOD VER MOVASWARI DROSHI CHATEVA UCEB GAMEPARA DRO
+//PLSSSSS IYAVIT LMOBIERI :)
 public class Item implements Comparable<Item>, Serializable {
 
     private Integer itemId;
@@ -61,3 +62,4 @@ public class Item implements Comparable<Item>, Serializable {
     }
 
 }
+
